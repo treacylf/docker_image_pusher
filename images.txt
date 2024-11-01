@@ -1,4 +1,1 @@
-docker.getcollate.io/openmetadata/postgresql:1.4.8
-docker.elastic.co/elasticsearch/elasticsearch:8.10.2
-docker.getcollate.io/openmetadata/server:1.4.8
-docker.getcollate.io/openmetadata/ingestion:1.4.8
+ghcr.io/coqui-ai/tts-cpu
