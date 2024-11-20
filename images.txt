@@ -1,1 +1,6 @@
-ghcr.io/coqui-ai/tts
+apache/gravitino-playground:hive-2.7.3
+apache/gravitino:0.7.0-incubating
+apache/gravitino-playground:trino-435-gravitino-0.7.0-incubating
+spark:3.4.1-scala2.12-java11-ubuntu
+jupyter/pyspark-notebook:spark-3.4.1
+prom/prometheus:v2.55.0
